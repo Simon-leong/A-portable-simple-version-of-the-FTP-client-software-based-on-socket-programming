@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="java:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/java_jar</output-path>
+    <root id="root">
+      <element id="archive" name="java.jar">
+        <element id="module-output" name="java" />
+      </element>
+      <element id="library" level="module" name="JUnit4" module-name="java" />
+      <element id="file-copy" path="$MAVEN_REPOSITORY$/org/jetbrains/annotations/19.0.0/annotations-19.0.0.jar" />
+      <element id="directory" name="libs" />
+    </root>
+  </artifact>
+</component>

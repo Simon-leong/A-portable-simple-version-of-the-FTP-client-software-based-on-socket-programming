@@ -1,0 +1,12 @@
+In this article, we proposed a three-phase facial expression recognizer to handle the label noisy
+and incomplete problem for FER task. Different from the previous studies, our approach adopts
+three continuous phases for model training, sample selection, and sample relabeling, respectively,
+with the hope that the noisy and incomplete information of labels could be corrected and supplemented for performance improvement. Technically, we design several simple and reasonable
+rules to select samples and reduce noise, as well as a composite two-label loss function to ensure
+the correct feature extraction and category prediction. The architecture is quite simple with few
+cost, and could be easily embedded into the existing FER approaches. We conducted extensive
+experiments on RAF-DB, FER2013, and AffectNet datasets. The experimental results demonstrate
+that our approach consistently outperforms the state-of-the-art approaches and is robust to noisy
+samples for FER task.  // 测试前准备
+
+This is a test!!!             //测试时

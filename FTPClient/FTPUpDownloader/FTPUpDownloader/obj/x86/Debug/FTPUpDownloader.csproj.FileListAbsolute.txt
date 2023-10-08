@@ -1,0 +1,25 @@
+C:\Users\Administrator\documents\visual studio 2010\Projects\FTPUpDownloader\FTPUpDownloader\bin\Debug\FTPUpDownloader.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\FTPUpDownloader\FTPUpDownloader\bin\Debug\FTPUpDownloader.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\FTPUpDownloader\FTPUpDownloader\obj\x86\Debug\FTPUpDownloader.Form1.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\FTPUpDownloader\FTPUpDownloader\obj\x86\Debug\FTPUpDownloader.Properties.Resources.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\FTPUpDownloader\FTPUpDownloader\obj\x86\Debug\FTPUpDownloader.csproj.GenerateResource.Cache
+C:\Users\Administrator\documents\visual studio 2010\Projects\FTPUpDownloader\FTPUpDownloader\obj\x86\Debug\FTPUpDownloader.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\FTPUpDownloader\FTPUpDownloader\obj\x86\Debug\FTPUpDownloader.pdb
+C:\Users\86181\Desktop\FTPUpDownloader\FTPUpDownloader\bin\Debug\FTPUpDownloader.exe
+C:\Users\86181\Desktop\FTPUpDownloader\FTPUpDownloader\bin\Debug\FTPUpDownloader.pdb
+C:\Users\86181\Desktop\FTPUpDownloader\FTPUpDownloader\obj\x86\Debug\FTPUpDownloader.csprojAssemblyReference.cache
+C:\Users\86181\Desktop\FTPUpDownloader\FTPUpDownloader\obj\x86\Debug\FTPUpDownloader.Form1.resources
+C:\Users\86181\Desktop\FTPUpDownloader\FTPUpDownloader\obj\x86\Debug\FTPUpDownloader.Properties.Resources.resources
+C:\Users\86181\Desktop\FTPUpDownloader\FTPUpDownloader\obj\x86\Debug\FTPUpDownloader.csproj.GenerateResource.cache
+C:\Users\86181\Desktop\FTPUpDownloader\FTPUpDownloader\obj\x86\Debug\FTPUpDownloader.csproj.CoreCompileInputs.cache
+C:\Users\86181\Desktop\FTPUpDownloader\FTPUpDownloader\obj\x86\Debug\FTPUpDownloader.exe
+C:\Users\86181\Desktop\FTPUpDownloader\FTPUpDownloader\obj\x86\Debug\FTPUpDownloader.pdb
+C:\Users\luo\Desktop\FTPClient\FTPUpDownloader\FTPUpDownloader\bin\Debug\FTPUpDownloader.exe
+C:\Users\luo\Desktop\FTPClient\FTPUpDownloader\FTPUpDownloader\bin\Debug\FTPUpDownloader.pdb
+C:\Users\luo\Desktop\FTPClient\FTPUpDownloader\FTPUpDownloader\obj\x86\Debug\FTPUpDownloader.csprojAssemblyReference.cache
+C:\Users\luo\Desktop\FTPClient\FTPUpDownloader\FTPUpDownloader\obj\x86\Debug\FTPUpDownloader.Form1.resources
+C:\Users\luo\Desktop\FTPClient\FTPUpDownloader\FTPUpDownloader\obj\x86\Debug\FTPUpDownloader.Properties.Resources.resources
+C:\Users\luo\Desktop\FTPClient\FTPUpDownloader\FTPUpDownloader\obj\x86\Debug\FTPUpDownloader.csproj.GenerateResource.cache
+C:\Users\luo\Desktop\FTPClient\FTPUpDownloader\FTPUpDownloader\obj\x86\Debug\FTPUpDownloader.csproj.CoreCompileInputs.cache
+C:\Users\luo\Desktop\FTPClient\FTPUpDownloader\FTPUpDownloader\obj\x86\Debug\FTPUpDownloader.exe
+C:\Users\luo\Desktop\FTPClient\FTPUpDownloader\FTPUpDownloader\obj\x86\Debug\FTPUpDownloader.pdb

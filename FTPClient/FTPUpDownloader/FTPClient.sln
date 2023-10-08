@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FTPClient", "FTPUpDownloader\FTPClient.csproj", "{D02A811D-F3AB-48BB-92D9-4D3CB2A1B36D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D02A811D-F3AB-48BB-92D9-4D3CB2A1B36D}.Debug|x86.ActiveCfg = Debug|x86
+		{D02A811D-F3AB-48BB-92D9-4D3CB2A1B36D}.Debug|x86.Build.0 = Debug|x86
+		{D02A811D-F3AB-48BB-92D9-4D3CB2A1B36D}.Release|x86.ActiveCfg = Release|x86
+		{D02A811D-F3AB-48BB-92D9-4D3CB2A1B36D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90D842B9-CC71-4F60-9DDD-A83167F52834}
+	EndGlobalSection
+EndGlobal

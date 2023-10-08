@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.wen.chat.client.Main
+Class-Path: junit-4.12.jar hamcrest-core-1.3.jar annotations-19.0.0.jar
+

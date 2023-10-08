@@ -1,0 +1,34 @@
+c:\users\administrator\documents\visual studio 2010\Projects\FtpServer\FtpServer\bin\Debug\FtpServer.exe
+c:\users\administrator\documents\visual studio 2010\Projects\FtpServer\FtpServer\bin\Debug\FtpServer.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\FtpServer\FtpServer\obj\x86\Debug\FtpServer.FtpServerForm.resources
+c:\users\administrator\documents\visual studio 2010\Projects\FtpServer\FtpServer\obj\x86\Debug\FtpServer.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\FtpServer\FtpServer\obj\x86\Debug\FtpServer.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2010\Projects\FtpServer\FtpServer\obj\x86\Debug\FtpServer.exe
+c:\users\administrator\documents\visual studio 2010\Projects\FtpServer\FtpServer\obj\x86\Debug\FtpServer.pdb
+C:\Users\86181\Desktop\FtpServer\FtpServer\bin\Debug\FtpServer.exe
+C:\Users\86181\Desktop\FtpServer\FtpServer\bin\Debug\FtpServer.pdb
+C:\Users\86181\Desktop\FtpServer\FtpServer\obj\x86\Debug\FtpServer.csprojAssemblyReference.cache
+C:\Users\86181\Desktop\FtpServer\FtpServer\obj\x86\Debug\FtpServer.FtpServerForm.resources
+C:\Users\86181\Desktop\FtpServer\FtpServer\obj\x86\Debug\FtpServer.Properties.Resources.resources
+C:\Users\86181\Desktop\FtpServer\FtpServer\obj\x86\Debug\FtpServer.csproj.GenerateResource.cache
+C:\Users\86181\Desktop\FtpServer\FtpServer\obj\x86\Debug\FtpServer.csproj.CoreCompileInputs.cache
+C:\Users\86181\Desktop\FtpServer\FtpServer\obj\x86\Debug\FtpServer.exe
+C:\Users\86181\Desktop\FtpServer\FtpServer\obj\x86\Debug\FtpServer.pdb
+C:\Users\luo\Desktop\FtpServer\FtpServer\bin\Debug\FtpServer.exe
+C:\Users\luo\Desktop\FtpServer\FtpServer\bin\Debug\FtpServer.pdb
+C:\Users\luo\Desktop\FtpServer\FtpServer\obj\x86\Debug\FtpServer.csprojAssemblyReference.cache
+C:\Users\luo\Desktop\FtpServer\FtpServer\obj\x86\Debug\FtpServer.FtpServerForm.resources
+C:\Users\luo\Desktop\FtpServer\FtpServer\obj\x86\Debug\FtpServer.Properties.Resources.resources
+C:\Users\luo\Desktop\FtpServer\FtpServer\obj\x86\Debug\FtpServer.csproj.GenerateResource.cache
+C:\Users\luo\Desktop\FtpServer\FtpServer\obj\x86\Debug\FtpServer.csproj.CoreCompileInputs.cache
+C:\Users\luo\Desktop\FtpServer\FtpServer\obj\x86\Debug\FtpServer.exe
+C:\Users\luo\Desktop\FtpServer\FtpServer\obj\x86\Debug\FtpServer.pdb
+C:\Users\h\Desktop\FtpServer\FtpServer\bin\Debug\FtpServer.exe
+C:\Users\h\Desktop\FtpServer\FtpServer\bin\Debug\FtpServer.pdb
+C:\Users\h\Desktop\FtpServer\FtpServer\obj\x86\Debug\FtpServer.csprojAssemblyReference.cache
+C:\Users\h\Desktop\FtpServer\FtpServer\obj\x86\Debug\FtpServer.Properties.Resources.resources
+C:\Users\h\Desktop\FtpServer\FtpServer\obj\x86\Debug\FtpServer.csproj.GenerateResource.cache
+C:\Users\h\Desktop\FtpServer\FtpServer\obj\x86\Debug\FtpServer.csproj.CoreCompileInputs.cache
+C:\Users\h\Desktop\FtpServer\FtpServer\obj\x86\Debug\FtpServer.exe
+C:\Users\h\Desktop\FtpServer\FtpServer\obj\x86\Debug\FtpServer.pdb
+C:\Users\h\Desktop\FtpServer\FtpServer\obj\x86\Debug\FtpServer.FtpServer.resources
